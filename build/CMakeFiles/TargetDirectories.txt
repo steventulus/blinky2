@@ -1,0 +1,4 @@
+/home/steven/blinky2/build/CMakeFiles/firmware.elf.dir
+/home/steven/blinky2/build/CMakeFiles/clean-all.dir
+/home/steven/blinky2/build/CMakeFiles/edit_cache.dir
+/home/steven/blinky2/build/CMakeFiles/rebuild_cache.dir
