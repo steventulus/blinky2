@@ -31,9 +31,9 @@ int main(void) {
 
     while (1) {
         GPIOC_ODR &= ~(1 << 13);  
-        delay_ms(50);            
+        delay_ms(100);            
 
         GPIOC_ODR |=  (1 << 13);
-        delay_ms(500);           
+        delay_ms(1000);           
     }
 }
